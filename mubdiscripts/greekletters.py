@@ -33,7 +33,7 @@ gk_lower = [
 ### Uppercase Letters
 gk_upper = []
 for letter in gk_lower:
-	gk_upper.append(lower.capitalize())
+	gk_upper.append(letter.capitalize())
 
 ### For LaTeX:
 
